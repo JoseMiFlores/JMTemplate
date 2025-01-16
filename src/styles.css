@@ -123,3 +123,13 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+.name{
+  color: white;
+  font-weight: semi-bold;
+}
+
+.title {
+  color: white;
+  font-weight: semi-bold;
+}
